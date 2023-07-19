@@ -1,2 +1,2 @@
 teste arquivo 01
-new line to check
+new line to check plus in terminal
