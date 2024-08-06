@@ -9,7 +9,7 @@ Entre no site do [Trailhead](https://trailhead.salesforce.com) e faça a inscri�
 - 3º - Industries CPQ - [Cpq](https://partnerlearningcamp.salesforce.com/s/browse-catalog?plc__recordId=fO71Z4%2FdUUMQE587cF1X%2F%2BcaXBdoU7vW6FI08tQ%2FmqSRefnmj1LK2x%2FsAu87uZNn)
 
 - 4º - Communications Cloud - [Technical Learning](https://partners-salesforce.relayto.com/e/technical-learning-journeys-h9sux80t69vbl/ivb7gCBr)
- 4.1 - Dentro da página acima você terá acesso a todas as trilhas técnicas da Salesforce, esse conteúdo é mais avançado, porém com muita informação.
+ - 4.1 - Dentro da página acima você terá acesso a todas as trilhas técnicas da Salesforce, esse conteúdo é mais avançado, porém com muita informação.
 
 - 5º - Toda a documentação da Salesforce pode ser encontrada nos links abaixo, separadas por tópicos, sua base principal deverá ser:
   - 5.1 - [Omnistudio - É o que engloba tudo abaixo](https://help.salesforce.com/s/articleView?id=sf.os_omnistudio.htm&type=5)
